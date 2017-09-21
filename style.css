@@ -1,0 +1,56 @@
+body {
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	background-color: #4B9E9C;
+	font-size: 13px;
+}
+
+.gumb {
+	font-size: 13px;
+	border: 0px;
+	background-color: lightcoral;
+	padding: 10px 20px 10px 20px;
+	font-family: 'Lato', sans-serif;
+	color: aliceblue;
+}
+
+.slika {
+	background-color: aliceblue;
+	border-radius: 50%;
+}
+
+strong {
+	color: #1C2541;
+}
+
+p {
+	font-size: 15px;
+	color: aliceblue;
+}
+
+p:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 40px;
+	color: aliceblue;
+	letter-spacing: 10px; 
+}
+
+h2 {
+	font-size: 20px;
+	color: aliceblue;
+	letter-spacing: 1px; 
+}
+
+h4 {
+	color:#1C2541;
+}
+
+form {
+	font-size: 10px;
+	font-family: 'Lato', sans-serif;
+	color:#1C2541;
+
+}
